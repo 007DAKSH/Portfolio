@@ -1,0 +1,20 @@
+h1{
+    color:hsl(hue, saturation, lightness)
+}
+h2{
+    color: hsl(hue, saturation, lightness);
+}
+h3{
+    color: hsl(hue, saturation, lightness);
+}
+body{
+    background-color:aquamarine
+}
+
+p{
+    color:blue
+}
+header {
+    text-align: center;
+    
+}

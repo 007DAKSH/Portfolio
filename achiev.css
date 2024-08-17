@@ -1,0 +1,18 @@
+img{
+    max-width: fit-content;
+    float: left;
+    margin-right: 15px;
+}
+button{
+    color: darkviolet;
+}
+h1{
+    color: red;
+}
+p{
+
+    color: wheat;
+}
+body{
+    background-color:floralwhite;
+}
